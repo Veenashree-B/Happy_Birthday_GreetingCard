@@ -28,7 +28,7 @@ Allow Gradle to sync and download the necessary dependencies.
 Click the Run button to launch the app on an Android Emulator or a physical device.
 
 📸 Screenshots
-([Screenshot](https://drive.google.com/file/d/1id2Vamex98Az0QyZ3rXTP73hC903GmaU/view?usp=sharing)e link:))
+([Screenshot](https://drive.google.com/file/d/1id2Vamex98Az0QyZ3rXTP73hC903GmaU/view?usp=sharing))
 
 📬 Let's Connect!
 Email: blveenashree@gmail.com
